@@ -1,5 +1,5 @@
 # Hariom-Demo
 This is my first Git Repository
 <br>
-Author - Hariom Jadhav
+Author - Hariom Jadhav(Jadhav)
 
